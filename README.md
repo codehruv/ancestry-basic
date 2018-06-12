@@ -16,3 +16,4 @@ The script produces a png and txt file with the ancestry percentages.
 
 
 Note that the `final1.pop` works only with the reference panel I have attached. If one wishes to use another reference panel, delete the pop file and make your own. ( Refer to the ADMXITURE manual for instructions on how to make a pop file )
+hi
